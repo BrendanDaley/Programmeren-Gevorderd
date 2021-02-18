@@ -1,0 +1,4 @@
+C:\Users\Brendan\Documents\School\Programmeren Gevorderd\BierWinkel\BierWinkel\obj\Debug\netcoreapp3.1\BierWinkel.csprojAssemblyReference.cache
+C:\Users\Brendan\Documents\School\Programmeren Gevorderd\BierWinkel\BierWinkel\obj\Debug\netcoreapp3.1\BierWinkel.AssemblyInfoInputs.cache
+C:\Users\Brendan\Documents\School\Programmeren Gevorderd\BierWinkel\BierWinkel\obj\Debug\netcoreapp3.1\BierWinkel.AssemblyInfo.cs
+C:\Users\Brendan\Documents\School\Programmeren Gevorderd\BierWinkel\BierWinkel\obj\Debug\netcoreapp3.1\BierWinkel.csproj.CoreCompileInputs.cache
